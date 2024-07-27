@@ -1,7 +1,8 @@
 :root {
     --corPrimaria: #000000;
-    --corSecundaria: #0004ff;
+    --corSecundaria: #88899e;
     --corTerciaria: #000000;
+    --corQuartenaria: #ffffff;
 }
 
 body {
@@ -20,7 +21,7 @@ nav input {
 }
 
 .logo {
-    background-color: var(--corPrimaria);
+    background-color: var(--corQuartenaria);
 }
 .card img{
     max-height: 214px;
