@@ -64,3 +64,6 @@ footer a:hover {
     color: var(--corPrimaria);
     border: 1px solid var(--corPrimaria);
 }
+.carousel-inner img{
+width: 500px;
+}
