@@ -38,4 +38,6 @@ To access the Gym Deca website, clone the project repository and open the `index
 
  
 2. - Open the file "index.html" in your browser.
+  
+3. - For quick acces, Open [https://arthurssr-alt.github.io/GymDeca/] in your browser.
  
