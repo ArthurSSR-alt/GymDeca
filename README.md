@@ -28,6 +28,7 @@ The project contais the following pages:
 - **HTML**: Used to structure the pages.
 - **CSS**: Used for styling and layout the pages, ensuring a pleasant and intuitive navigation.
 - **JavaScript**: Interactivity and dynamic features, such as form validation and alert display and toasts.
+- **BootStrap**: Used to integrate some features in the constructiong of the website.
  
 ## How to Access the project
  
